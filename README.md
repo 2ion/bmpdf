@@ -4,7 +4,7 @@ bmpdf is a Lua program that scripts a LaTeX implementation (tested with
 XeLaTeX, LuaLaTeX, pdfLaTeX) to add bookmarks to PDF files. Bookmarks
 are set to target specific pages, their names can be set to anything
 which is allowed as normal text input by the TeX engine respectively
-used.
+used. Bookmarks can be nested arbitrarily.
 
 This is a work in progress. Complete documentation will be provided
 as soon as everything is functional.
