@@ -1,3 +1,6 @@
 [submodule "extern/lqt.git"]
 	path = extern/lqt.git
 	url = https://github.com/mkottman/lqt.git
+[submodule "lua-getopt"]
+	path = lua-getopt
+	url = git://github.com/2ion/lua-getopt.git
